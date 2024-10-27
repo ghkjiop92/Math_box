@@ -1,8 +1,11 @@
 # 기본 계산기
-def add(a+b):
+def add(a,b):
         return a+b
 
 
-def subtrack(a+b):
+def subtrack(a,b):
         return a-b
                                                 
+def  multiply(a,b):
+        return a*b
+                          
